@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747255939645",
+    "project_id": "peliculas-2665e",
+    "storage_bucket": "peliculas-2665e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747255939645:android:58f6b9729ffd6466bda054",
+        "android_client_info": {
+          "package_name": "salcedo.mario.peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvrek_72CUyzs0FLEp3GIw_MCAH92MdjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
