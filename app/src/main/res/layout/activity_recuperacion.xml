@@ -9,7 +9,7 @@
     tools:context=".RecuperacionActivity">
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress2"
+        android:id="@+id/et_contra_recuperacion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -18,7 +18,7 @@
         android:inputType="textEmailAddress" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btn_recuperar_contra"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Recuperar Contraseña" />

@@ -46,7 +46,7 @@
         android:inputType="number" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/et_correo_registro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -55,7 +55,7 @@
         android:inputType="textEmailAddress" />
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/et_contra1_registro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -64,7 +64,7 @@
         android:inputType="textPassword" />
 
     <EditText
-        android:id="@+id/editTextTextPassword2"
+        android:id="@+id/et_contra2_registro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -73,7 +73,7 @@
         android:inputType="textPassword" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btn_registrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Registrar" />
